@@ -6,9 +6,12 @@
 </blockquote>
 <ol>
 <li>
-<blockquote>Check e-steps before start printing, the default e-steps was adjusted for the BMG extruder.</blockquote>
+<blockquote>Check e-steps before start printing, the default e-steps was adjusted for the original extruder.</blockquote>
 </li>
 <li>
-<blockquote>Z-homing probing was configured to the front left corner, allowing multi color printing with z-offset plugin in Cura</blockquote>
+<blockquote>Z-homing probing was back to the center of the bed, due to inconsistence in the mesh</blockquote>
+</li>
+<li>
+<blockquote>For BLTouch firmware, the NOZZLE_TO_PROBE OFFSET is adjusted to the one in Thingiverse. <a title="THIS THING" href="https://www.thingiverse.com/thing:4564987">https://www.thingiverse.com/thing:4564987</a></blockquote>
 </li>
 </ol>
