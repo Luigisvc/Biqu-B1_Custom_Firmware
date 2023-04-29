@@ -1,6 +1,11 @@
 <h1 style="text-align: center;"><strong># Biqu-B1_Custom_Firmware</strong></h1>
 <p><strong>Disclaimer: I am not developer or owner either for Marlin or Bigtreetech, I just compiled my own firmware and sharing with others who do not want or do not have knowledge to do their own. Please do not make me responsible for any problem on your printer.<br /></strong></p>
 <p><strong>I have a B1 with SKR 2 REV B with F407 processor, so for other version, I didn't test the firmware. Any problem please let me know.</strong></p>
+<p>&nbsp;</p>
+<h2><span style="color: #ff0000; background-color: #999999;">Klipper for the BIQU B1:</span></h2>
+<p><span style="color: #993366; background-color: #999999;"><strong>As I have started experimenting with Klipper, I have uploaded my configs files to share with our coleagues owners of BIQU B1 with the SKR2.</strong></span></p>
+<p><span style="color: #993366; background-color: #999999;"><strong>Please be aware that the configs and the macros were developed to my specific use, so please review all the items before start using in your printer. Any doubts please contact me.</strong></span></p>
+<h2>&nbsp;</h2>
 <h2>Lastest Marlin version: 2.1.2</h2>
 <ol>
 <li>
