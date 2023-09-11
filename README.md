@@ -32,6 +32,6 @@
 <blockquote>Z-homing probing was back to the center of the bed, due to inconsistence in the mesh.</blockquote>
 </li>
 <li>
-<blockquote>For BLTouch firmware, the NOZZLE_TO_PROBE OFFSET is adjusted to the one in Thingiverse. <a title="THIS THING" href="https://www.thingiverse.com/thing:4564987">https://www.thingiverse.com/thing:4564987</a></blockquote>
+<blockquote>For BLTouch firmware, the NOZZLE_TO_PROBE OFFSET is adjusted to the one in Thingiverse. <a title="THIS THING" href="https://www.printables.com/model/79273-biqu-b1-bltouch-mount">https://www.printables.com/model/79273-biqu-b1-bltouch-mount</a></blockquote>
 </li>
 </ol>
