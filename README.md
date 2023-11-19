@@ -6,7 +6,7 @@
 <p><span style="color: #993366; background-color: #999999;"><strong>As I have started experimenting with Klipper, I have uploaded my configs files to share with our coleagues owners of BIQU B1 with the SKR2.</strong></span></p>
 <p><span style="color: #993366; background-color: #999999;"><strong>Please be aware that the configs and the macros were developed to my specific use, so please review all the items before start using in your printer. Any doubts please contact me.</strong></span></p>
 <h2>&nbsp;</h2>
-<h2>Lastest Marlin version: 2.1.2</h2>
+<h2>Lastest Marlin version: 2.1.2.1</h2>
 <ol>
 <li>
 <blockquote>Marlin 2.12 introduces the Input Shaping experimental feature, I enabled in firmware for testing and is being working. Any bug please advise.</blockquote>
